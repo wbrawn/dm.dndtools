@@ -1,0 +1,60 @@
+<!--ROTATING IMAGES START-->
+<!--
+<button id="rotatePicturesbutton" onclick="toggleTablePictures();" href="#">Hide/Show Pictures</button><br>
+
+<table id="rotatePictures" style="display: table;"><tr><td>
+
+<script type="text/javascript" src="pictureRotationCode.js"></script>
+
+<pre>
+<div id="rotating-item-wrapper">
+ <img class="rotating-item" src="dnd-banner-700.jpg"  width="980" height="347" />
+ <img class="rotating-item" src="HERO_PHB.jpg" width="980" height="347" />
+ <img class="rotating-item" src="rdi_banner.jpg" width="980" height="347" />
+ <img class="rotating-item" src="a3d1375d185fa26815a969a0fee72fb8.jpg" width="980" height="347" />
+ <img class="rotating-item" src="beeddba556b51c3e83a79feaba6e52fa.jpg" width="980" height="347" />
+ <img class="rotating-item" src="w5UkdgV.jpg" width="980" height="347" />
+ <img class="rotating-item" src="2a375f267abb8615fd7bf33c9b96c380.jpg" width="980" height="347" />
+ <img class="rotating-item" src="yFPdVMP.jpg" width="980" height="347" />
+ <img class="rotating-item" src="cb0ba18e94e4acaed9466f1ae04c0f7f.jpg" width="980" height="347" />
+ <img class="rotating-item" src="4ebb52a0248bc03ade9045569e314d9c.jpg" width="980" height="347" />
+ <img class="rotating-item" src="a8be2054ecb52bfcbc0d7b880549fb6b.jpg" width="980" height="347" />
+ <img class="rotating-item" src="dm tricks.jpg" width="980" height="347" />
+ <img class="rotating-item" src="vj3RSXY.jpg" width="980" height="347" />
+ <img class="rotating-item" src="3fe1f4f6b8b8b4de16b20f2b9238cade.jpg" width="980" height="347" />
+ <img class="rotating-item" src="902268ef228a740b4acdf527f1d641ec.jpg" width="980" height="347" />
+ <img class="rotating-item" src="28b2a285a25ba27dda45541a30e5ac54.jpg" width="980" height="347" />
+ <img class="rotating-item" src="38CQuRH.jpg" width="980" height="347" />
+ <img class="rotating-item" src="4619762fdc9afd034a6ca8f0dd7d62b9.jpg" width="980" height="347" />
+ <img class="rotating-item" src="N6zgVnj.jpg" width="980" height="347" />
+ <img class="rotating-item" src="1288974336082.jpg" width="980" height="347" />
+ <img class="rotating-item" src="09f96d575758b65fc419898be2d5beb9.jpg" width="980" height="347" />
+ <img class="rotating-item" src="MKlmBU8.jpg" width="980" height="347" />
+ <img class="rotating-item" src="NexusBannerFINAL_10501.jpg" width="980" height="347" />
+ <img class="rotating-item" src="gaile banner.jpg" width="980" height="347" />
+ <img class="rotating-item" src="images.jpg" width="980" height="347" />
+ <img class="rotating-item" src="dnd_ba14.jpg" width="980" height="347" />
+ <img class="rotating-item" src="DD-Banner.jpg" width="980" height="347" />
+ <img class="rotating-item" src="cropped-Night-Below-Banner4.jpg" width="980" height="347" />
+ <img class="rotating-item" src="dungeons-and-dragons-banner.jpg" width="980" height="347" />
+ <img class="rotating-item" src="hero_dmgscreen_0.jpg" width="980" height="347" />
+ <img class="rotating-item" src="NEW-TO-DnD_What-is-DnD_Subsection_Hero_140718.jpg" width="980" height="347" />
+ <img class="rotating-item" src="gw2_manifesto_banner.jpg" width="980" height="347" />
+ <img class="rotating-item" src="dungeons-dragons-daggerdale-tavern-brawl.jpg" width="980" height="347" />
+ <img class="rotating-item" src="dungeo10.jpg" width="980" height="347" />
+ <img class="rotating-item" src="waynereynolds-800x500.jpg" width="980" height="347" />
+ <img class="rotating-item" src="DnD-banner980.jpg" width="980" height="347" />
+ <img class="rotating-item" src="bg-digital-games_5.jpg" width="980" height="347" />
+ <img class="rotating-item" src="EN_Monster_Beholder_Header.jpg" width="980" height="347" />
+ <img class="rotating-item" src="dndlvl20.jpg" width="980" height="347" />
+ <img class="rotating-item" src="Werd6HN.jpg" width="980" height="347" />
+ <img class="rotating-item" src="fanart-1303-full.jpg" width="980" height="347" />
+ <img class="rotating-item" src="reynolds-eberron-03.jpg" width="980" height="347" />
+ <img class="rotating-item" src="DD-4e-all-core-Small.jpg" width="980" height="347" />
+ 
+</div>
+</pre>
+</table></tr></td>
+-->
+
+<!--ROTATING IMAGES END-->
